@@ -1,0 +1,6 @@
+[submodule "GaussianProcess"]
+	path = GaussianProcess
+	url = https://github.com/JonasRSV/GaussianProcess.git
+[submodule "Simple_Regression"]
+	path = Simple_Regression
+	url = https://github.com/JonasRSV/Simple_Regression.git
